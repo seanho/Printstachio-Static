@@ -7,10 +7,10 @@
     "url": "https://github.com/seanho/Printstachio-Static"
   },
   "dependencies": {
+    "koa": "^0.8.1"
   },
-  "devDependencies": {
-  },
-  "engine": {
-    "node": ">= 0.10.2"
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.11.11"
   }
 }
