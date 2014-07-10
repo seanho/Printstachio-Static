@@ -1,0 +1,13 @@
+node_modules/
+bower_components/
+client/bower_components/
+pids/
+**/*.log
+results/
+build/
+**/*.iml
+.idea/
+deployable/
+test/work/*
+
+npm-debug.log

@@ -1,2 +1,1 @@
-Printstachio-Static
-===================
+Printstachio Static

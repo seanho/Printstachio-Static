@@ -1,0 +1,16 @@
+{
+  "name": "printstachio-static",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanho/Printstachio-Static"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engine": {
+    "node": ">= 0.10.2"
+  }
+}
