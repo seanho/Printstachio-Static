@@ -1,6 +1,9 @@
-var koa = require('koa');
+var koa = require('koa'),
+    serve = require('koa-static');
+
 var app = koa();
 
+app.use(serve('./public'));
 app.use(function *(){
   this.body = 'Printstachio!';
 });

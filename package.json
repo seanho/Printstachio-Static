@@ -15,7 +15,14 @@
     "url": "https://github.com/seanho/Printstachio-Static"
   },
   "dependencies": {
-    "koa": "^0.8.1"
+    "gulp": "^3.8.6",
+    "gulp-jade": "^0.6.1",
+    "gulp-stylus": "^1.0.4",
+    "jeet": "^5.3.0",
+    "koa": "^0.8.1",
+    "koa-static": "^1.4.5",
+    "nib": "^1.0.3",
+    "rupture": "^0.1.0"
   },
   "devDependencies": {}
 }
