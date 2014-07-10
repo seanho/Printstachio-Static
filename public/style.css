@@ -99,7 +99,7 @@ body {
 .float-box {
   display: table;
   margin: 0 auto;
-  width: 60%;
+  width: 50%;
   height: 100%;
 }
 .float-box .logo {
