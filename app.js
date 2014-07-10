@@ -5,4 +5,6 @@ app.use(function *(){
   this.body = 'Printstachio!';
 });
 
-app.listen(process.env.PORT || 3000);
+var post = process.env.PORT || 3000;
+
+app.listen(post);
